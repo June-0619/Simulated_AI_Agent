@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-3) 运行单元测试
+3) 运行单元测试(版本要求 Node.js ≥ 20.19)
 
 ```bash
 npm run test
