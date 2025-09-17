@@ -1,6 +1,6 @@
 import { describe, it, expect, vi } from 'vitest'
-import simulateEventStream from './simulateEventStream'
-import { streamEvents } from './streamEvents'
+import simulateEventStream from '../src/services/simulateEventStream'
+import { streamEvents } from '../src/services/streamEvents'
 
 describe('simulateEventStream', () => {
   it('should return code events when prompt includes fibonacci', () => {

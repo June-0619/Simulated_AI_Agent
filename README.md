@@ -29,7 +29,7 @@ npm run dev
 ```
 
 3) 运行单元测试(版本要求 Node.js ≥ 20.19)
-
+用于验证流式处理逻辑：
 ```bash
 npm run test
 ```
