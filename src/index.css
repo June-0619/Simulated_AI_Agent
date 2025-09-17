@@ -1,0 +1,3 @@
+/* 使用 Tailwind CDN，不启用本地 @tailwind 指令 */
+html, body, #root { height: 100%; }
+body { margin: 0; }
